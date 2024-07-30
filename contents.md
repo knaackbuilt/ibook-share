@@ -12,3 +12,14 @@ Some shared notes and lists of links for further reading.
   - https://www.w3.org/WAI/ARIA/apg/practices/names-and-descriptions/#cardinalrulesofnaming
   - https://adrianroselli.com/2019/11/aria-label-does-not-translate.html
   - https://www.w3.org/TR/accname/  
+
+## Use real language codes please
+- https://www.w3.org/International/tutorials/language-decl/en/slides/Slide0250.html
+- https://unicode-org.github.io/icu-docs/design/language_code_issues.html
+- https://www.rfc-editor.org/info/bcp47
+- https://www.rfc-editor.org/rfc/rfc5646.txt
+- https://www.w3.org/International/
+- https://developer.apple.com/library/archive/technotes/tn2418/_index.html
+- https://accessibilityinsights.io/info-examples/web/valid-lang/
+- https://www.w3.org/TR/WCAG20-TECHS/H57.html
+- https://developers.google.com/custom-search/docs/ref_languages
