@@ -23,3 +23,6 @@ Some shared notes and lists of links for further reading.
 - https://accessibilityinsights.io/info-examples/web/valid-lang/
 - https://www.w3.org/TR/WCAG20-TECHS/H57.html
 - https://developers.google.com/custom-search/docs/ref_languages
+
+## Git and Dev Resources for OSX 10.5.8 and PPC G4
+- https://gitx.frim.nl/
