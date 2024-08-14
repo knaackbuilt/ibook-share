@@ -24,5 +24,6 @@ Some shared notes and lists of links for further reading.
 - https://www.w3.org/TR/WCAG20-TECHS/H57.html
 - https://developers.google.com/custom-search/docs/ref_languages
 
-## Git and Dev Resources for OSX 10.5.8 and PPC G4
+## PPC and OSX resources
 - https://gitx.frim.nl/
+- https://theapplewiki.com/wiki/Firmware/Mac/10.4.x
