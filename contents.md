@@ -27,3 +27,8 @@ Some shared notes and lists of links for further reading.
 ## PPC and OSX resources
 - https://gitx.frim.nl/
 - https://theapplewiki.com/wiki/Firmware/Mac/10.4.x
+
+
+## I totally didn't know this and feel dumb
+- look at css ::placeholder requirements and that there's a default of less than 1 opacity
+- non-text contrast deep dive
