@@ -32,3 +32,5 @@ Some shared notes and lists of links for further reading.
 ## I totally didn't know this and feel dumb
 - look at css ::placeholder requirements and that there's a default of less than 1 opacity
 - non-text contrast deep dive
+
+## Adding something from an iBook G4
