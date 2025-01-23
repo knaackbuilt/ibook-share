@@ -35,3 +35,4 @@ Some shared notes and lists of links for further reading.
 
 ## Adding something from an iBook G4
 - checking commit names from this machine
+- and again
