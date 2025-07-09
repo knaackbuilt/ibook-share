@@ -1,3 +1,5 @@
-# 2025 on an iBook G4
+# 2025 on an PowerBook g4
 
-Tigerbrew and Macports are both totally viable options to install lots of modern things, even on a PowerPC G4. I've installed git and all necessary dependencies using both, on iBooks running OSX 10.5.8 (lepoard)
+Brand new to me and an amazing laptop: 17 inch PowerBook G4 1.67ghz, 2GB RAM, ATi Radeon 9700 128MB, OSX 10.4.11.
+
+One of the best keyboards I've ever used. Working on getting a better battery. 
